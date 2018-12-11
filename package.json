@@ -1,5 +1,5 @@
 {
-  "name": "first-npm-package",
+  "name": "redesigned-invention",
   "version": "1.0.0",
   "description": "first package docker pipeline",
   "main": "/lib/index.js",
