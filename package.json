@@ -7,7 +7,7 @@
     "build": "./node_modules/.bin/tsc",
     "test": "./node_modules/.bin/jest",
     "clean": "./node_modules/.bin/rimraf lib",
-    "prepublish": "npm run clean && npm run test && npm run build"
+    "prepublishOnly": "npm run clean && npm run test && npm run build"
   },
   "repository": {
     "type": "git",
